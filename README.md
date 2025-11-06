@@ -1,12 +1,11 @@
-# TH_React_Native
-# Bài tập thực hành ngày 3/11
+## TH_React_Native
+## Bài tập thực hành ngày 3/11
 
-# MyProject : Bài tập thực hành từ Bài 1 đến Bài 6
-# WorkList : Bài thực hành 7
-# Switch_Screen : Bài 8 – App 2 màn hình
-# Tab_Navigation: Bài 9 - Tab Navigation
-
-# StudentList : Bài 10 – Danh sách sinh viên
+- MyProject : Bài tập thực hành từ Bài 1 đến Bài 6
+- WorkList : Bài thực hành 7
+- Switch_Screen : Bài 8 – App 2 màn hình
+- Tab_Navigation: Bài 9 - Tab Navigation
+- StudentList : Bài 10 – Danh sách sinh viên
 
 ### Bài tập thực hành số 3
 
